@@ -1,4 +1,6 @@
-# MetricFlow — Rebrandly Conversion Tracking demo
+# MetricFlow — AI-Generated Product Walkthrough
+
+> Built with Claude AI to demonstrate how a product marketer can create interactive product tours with AI assistance.
 
 A live demoable site showing how Rebrandlys Conversion Tracking attributes clicks, page views, and revenue back to the marketing channel that generated them.
 
